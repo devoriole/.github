@@ -1,7 +1,5 @@
 ![Logo](../logo.png)
 
-# Oriole Project
-
 ## Привет! 👋 
 
 Мы — IT-команда **Oriole**.  
