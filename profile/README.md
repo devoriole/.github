@@ -1,4 +1,4 @@
-![Logo](static/logo.png)
+![Logo](../logo.png)
 
 # Oriole Project
 
